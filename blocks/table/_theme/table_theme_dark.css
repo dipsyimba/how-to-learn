@@ -1,0 +1,5 @@
+.table_theme_dark {
+  counter-reset: my-counter;
+  margin-bottom: 90px;
+  z-index: 1;
+}
